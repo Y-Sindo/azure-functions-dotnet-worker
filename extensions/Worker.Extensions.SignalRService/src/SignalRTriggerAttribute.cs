@@ -23,6 +23,10 @@ namespace Microsoft.Azure.Functions.Worker
             ParameterNames = parameterNames;
         }
 
+        //public SignalRTriggerAttribute()
+        //{
+        //}
+
         /// <summary>
         /// Gets or sets the app setting name that contains the Azure SignalR connection string.
         /// </summary>
